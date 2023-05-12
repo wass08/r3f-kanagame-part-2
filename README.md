@@ -1,10 +1,10 @@
-![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/236351266-b8747a32-ef37-403a-b62f-5dfef61da060.jpg)
+![Thumbnail video tutorial](https://github.com/wass08/r3f-kanagame-part-2/assets/6551176/8549728c-8946-4da2-b68a-0cdd42716d23)
 
-[Demo](https://codesandbox.io/p/github/wass08/r3f-kanagame-part-1)
+[Demo](https://codesandbox.io/p/github/wass08/r3f-kanagame-part-2)
 
-[Video tutorial](https://youtu.be/zwNF1-lsia8)
+[Video tutorial](https://youtu.be/2y4QYk6tHQs)
 
-[Starter pack](https://github.com/wass08/r3f-vite-starter)
+[First part](https://github.com/wass08/r3f-kanagame-part-1)
 
 
 ### 3D Model credits
